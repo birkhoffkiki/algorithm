@@ -7,7 +7,7 @@ ubuntu是单根目录结构，所有目录均从根目录"/"开始，没有win�
 /home/ : 用于目录，比如/home/kara/,就是kara用户的目录
 /etc/ :配置文件目录，无需了解
 
-![Image path arch] https://github.com/birkhoffkiki/cache/blob/master/images/path_arc.png
+![](images/path_arc.png)
 
 Ps:1.linux 下目录分割符是 / 
 
