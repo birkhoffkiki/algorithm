@@ -73,3 +73,6 @@ Ps:1.linux 下目录分割符是 /
 #### tricks
 1. 使用Tab可以补全命令，路径等
 2. ... 
+
+#### 补充
+watch -n 1 -d nvidia-smi // watch 命令可以用来定时监视，
