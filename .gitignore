@@ -1,0 +1,5 @@
+*.log
+*.temp
+**/Debug
+*/.idea
+*/cmake-build-debug
